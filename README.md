@@ -13,4 +13,4 @@
 ![example](./demo1.png)
 ![example](./text-detection-demo.png)
 ## Demo video link
-https://youtu.be/p8ZC2G97zAQ
+https://youtu.be/p8ZC2G97zAQ?t=126
